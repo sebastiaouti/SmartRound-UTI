@@ -1,5 +1,5 @@
 import streamlit as st
-from pages.UTI_Evolucao import evolucao_uti_interface
+from pages/UTI_Evolucao import evolucao_uti_interface
 
 st.set_page_config(page_title="SmartRound UTI", layout="wide")
 
